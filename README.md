@@ -9,7 +9,7 @@ The sales data used in this dashboard is sourced from the `supermarket_sales.csv
 ## Dashboard Preview
 To get a glimpse of the dashboard, refer to the snapshot file: [snapshot_of_sales_dashboard.png](snapshot_of_sales_dashboard.png).
 
-For full interactivity and exploration, access the dashboard through Tableau Public: [Tableau Dashboard]([Tableau-Dasboard](https://public.tableau.com/views/SalesDasboard_17135493569980/SALESDASBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)).
+For full interactivity and exploration, access the dashboard through Tableau Public: [Tableau-Dasboard](https://public.tableau.com/views/SalesDasboard_17135493569980/SALESDASBOARD?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Dashboard Contents
 ### Global Filters:
